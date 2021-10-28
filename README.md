@@ -2,8 +2,12 @@
 
 
 
-Este es un proyecto estándar el cual tiene una serie de servicio tales como registrarse, iniciar sección, ver una lista de usuarios con sus atributos (admi), manejos de roles (user, admin) entre otras.
-Tiene una serie de funcionalidades integradas e implementación de algunas tecnologías, herramientas las cuales no permitirán tanto al cliente como al usuario que quiere implementar este proyecto para su beneficio de manera fácil debido a que se trato de dar las mejores prácticas en cada una de las tecnologías usas con la estructura más adecuada
+Este es un proyecto estándar el cual tiene una serie de servicios tales como registrarse, iniciar sesión, ver una lista de usuarios con sus atributos, manejos de roles (user, admin).
+
+Su implementación se compone de algunas tecnologías, herramientas las cuales permitirán al cliente y al usuario para demostrar las mejores prácticas en cada una de las tecnologías usadas con la estructura más adecuada.
+
+Entre aplicación encontraremos un back con node.js y front con angular el cual se usó una plantilla encontrada en la web la cual fue personalizada de acuerdo a nuestras necesidades.
+
 
 ## Table of Contents
 
