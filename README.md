@@ -1,6 +1,5 @@
 # [App-Plataforma]()
 
-![Product Gif](src/assets/img/capturas/img1.png)
 
 
 Este es un proyecto estándar el cual tiene una serie de servicio tales como registrarse, iniciar sección, ver una lista de usuarios con sus atributos (admi), manejos de roles (user, admin) entre otras.
@@ -22,17 +21,17 @@ Tiene una serie de funcionalidades integradas e implementación de algunas tecno
 
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-dashboard-angular)
+
 
 | Angular                                                               |
 | --------------------------------------------------------------------- |
-| [![Paper Dashboard Angular](src/assets/img/capturas/registrar.png)]() |
+| () |
 
 ## Demo
 
 | Dashboard                                           | Crear Usuario                                                      | Listado Usuarios                                               |
 | --------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| [![Start page](src/assets/img/capturas/img1.png)]() | [![User profile page](src/assets/img/capturas/crearUsuario.png)]() | [![Tables page ](src/assets/img/capturas/listaUsuarios.png)]() |
+
 
 ## Quick start
 
