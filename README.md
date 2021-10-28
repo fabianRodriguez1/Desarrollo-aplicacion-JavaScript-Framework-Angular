@@ -23,9 +23,7 @@ Tiene una serie de funcionalidades integradas e implementación de algunas tecno
 
 
 
-| Angular                                                               |
-| --------------------------------------------------------------------- |
-| () |
+
 
 ## Demo
 
